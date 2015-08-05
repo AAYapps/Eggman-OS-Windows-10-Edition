@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Eggman_OS_Windows_10_Edition.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Eggman_OS_Windows_10_Edition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="Agreetxt" TextWrapping="Wrap" Text="Welcome to the Eggman OS Installation wizard.&#xD;&#xA;&#xD;&#xA;Terms and Conditions&#xD;&#xA;&#xD;&#xA;This OS must be the only system to be installed. All operating&#xD;&#xA;systems relating to &quot;Minimalsoft Doors 10&quot;, &quot;Peach OS X Water&quot;,&#xD;&#xA;or &quot;Freeix&quot; must be uninstalled at this very second. &#xD;&#xA;&#xD;&#xA;The user will also be required to only use Eggman OS. In no way&#xD;&#xA;should the user unistall this Software as this will violate this &#xD;&#xA;Agreement. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;(Please understand that this is not a real agreement, this is only&#xD;&#xA;part of the game. DO Not Take This Seriously.)&#xD;&#xA;" IsReadOnly="True" Margin="0,0,0,70" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+        <StackPanel x:Name="agreepnl" FlowDirection="RightToLeft" Orientation="Horizontal"  HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="70">
+            <Button x:Name="Agree" Content="Agree" HorizontalAlignment="Center"/>
+            <Button x:Name="Disagree" Content="Disagree" HorizontalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Page>
