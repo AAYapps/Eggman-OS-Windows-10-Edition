@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -25,6 +26,24 @@ namespace Eggman_OS_Windows_10_Edition
         public MainPage()
         {
             this.InitializeComponent();
+        }
+
+        private void Agree_Click(object sender, RoutedEventArgs e)
+        {
+            MessageDialog dialog = new MessageDialog("You have Agreed to the Terms and Conditions");
+            dialog.ShowAsync();
+        }
+
+        private void notchoose_Click(object sender, RoutedEventArgs e)
+        {
+            MessageDialog dialog = new MessageDialog("Thankyou for Accepting the agreement by not choosing. Best option ever.");
+            dialog.ShowAsync();
+        }
+
+        private void Disagree_Click(object sender, RoutedEventArgs e)
+        {
+            MessageDialog dialog = new MessageDialog("Thankyou for Accepting the agreement.");
+            dialog.ShowAsync();
         }
     }
 }
