@@ -21,9 +21,14 @@ namespace Eggman_OS_Windows_10_Edition
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class MainPage : Page
+    public sealed partial class Installer : Page
     {
-        public MainPage()
+        public static string gamefolder()
+        {
+            return Windows.Storage.StorageLibrary.GetLibraryAsync(Windows.Storage.KnownLibraryId.Documents) + @"\EggmanOS Directory";
+        }
+
+        public Installer()
         {
             this.InitializeComponent();
         }
@@ -32,18 +37,27 @@ namespace Eggman_OS_Windows_10_Edition
         {
             MessageDialog dialog = new MessageDialog("You have Agreed to the Terms and Conditions");
             dialog.ShowAsync();
+            loadframe Installscreen = new loadframe();
+            Install_Screen install = new Install_Screen();
+            Installscreen.load(this, install);
         }
 
         private void notchoose_Click(object sender, RoutedEventArgs e)
         {
             MessageDialog dialog = new MessageDialog("Thankyou for Accepting the agreement by not choosing. Best option ever.");
             dialog.ShowAsync();
+            loadframe Installscreen = new loadframe();
+            Install_Screen install = new Install_Screen();
+            Installscreen.load(this, install);
         }
 
         private void Disagree_Click(object sender, RoutedEventArgs e)
         {
             MessageDialog dialog = new MessageDialog("Thankyou for Accepting the agreement.");
             dialog.ShowAsync();
+            loadframe Installscreen = new loadframe();
+            Install_Screen install = new Install_Screen();
+            Installscreen.load(this, install);
         }
     }
 }

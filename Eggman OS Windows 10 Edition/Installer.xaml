@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="Eggman_OS_Windows_10_Edition.MainPage"
+    x:Class="Eggman_OS_Windows_10_Edition.Installer"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Eggman_OS_Windows_10_Edition"
