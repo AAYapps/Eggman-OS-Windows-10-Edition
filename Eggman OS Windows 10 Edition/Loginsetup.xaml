@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Eggman_OS_Windows_10_Edition.Loginsetup"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Eggman_OS_Windows_10_Edition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <RelativePanel Background="#7F7C0707">
+            <Image x:Name="Eggpic" Source="audio/Dr__Eggman.jpg" RelativePanel.AlignHorizontalCenterWithPanel="True" Stretch="None" Height="75" Margin="0,100,0,0"/>
+            <TextBox x:Name="Usernametxt" RelativePanel.AlignHorizontalCenterWith="Eggpic" RelativePanel.Below="Eggpic" Margin="100,50,0,0" Width="200"/>
+            <TextBlock x:Name="userlbl" Text="Username" RelativePanel.AlignLeftWith="Usernametxt" RelativePanel.AlignVerticalCenterWith="Usernametxt" Margin="0,50,0,0" FontSize="20"/>
+            
+        </RelativePanel>
+    </Grid>
+</Page>

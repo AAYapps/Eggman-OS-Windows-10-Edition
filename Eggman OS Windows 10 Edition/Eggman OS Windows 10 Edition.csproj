@@ -11,13 +11,14 @@
     <AssemblyName>Eggman OS Windows 10 Edition</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>
-    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <TargetPlatformVersion>10.0.15063.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PackageCertificateKeyFile>Eggman OS Windows 10 Edition_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>79EB6A3A60DD055FBFA8FD390105D7E9A1BF5DCC</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <DebugSymbols>true</DebugSymbols>
@@ -71,7 +72,7 @@
     <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
     <NoWarn>;2008</NoWarn>
     <DebugType>full</DebugType>
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>ARM</PlatformTarget>
     <UseVSHostingProcess>false</UseVSHostingProcess>
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
@@ -106,7 +107,11 @@
       <DependentUpon>Install_Screen.xaml</DependentUpon>
     </Compile>
     <Compile Include="loadframe.cs" />
+    <Compile Include="Loginsetup.xaml.cs">
+      <DependentUpon>Loginsetup.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Eggkernel.cs" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -115,6 +120,128 @@
     <None Include="Eggman OS Windows 10 Edition_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\BadgeLogo.scale-100.png" />
+    <Content Include="Assets\BadgeLogo.scale-125.png" />
+    <Content Include="Assets\BadgeLogo.scale-150.png" />
+    <Content Include="Assets\BadgeLogo.scale-200.png" />
+    <Content Include="Assets\BadgeLogo.scale-400.png" />
+    <Content Include="Assets\chao1.jpg" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-125.png" />
+    <Content Include="Assets\SplashScreen.scale-150.png" />
+    <Content Include="Assets\SplashScreen.scale-400.png" />
+    <Content Include="Assets\Square150x150Logo.scale-100.png" />
+    <Content Include="Assets\Square150x150Logo.scale-125.png" />
+    <Content Include="Assets\Square150x150Logo.scale-150.png" />
+    <Content Include="Assets\Square150x150Logo.scale-400.png" />
+    <Content Include="Assets\Square310x310Logo.scale-100.png" />
+    <Content Include="Assets\Square310x310Logo.scale-125.png" />
+    <Content Include="Assets\Square310x310Logo.scale-150.png" />
+    <Content Include="Assets\Square310x310Logo.scale-200.png" />
+    <Content Include="Assets\Square310x310Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.scale-100.png" />
+    <Content Include="Assets\Square44x44Logo.scale-125.png" />
+    <Content Include="Assets\Square44x44Logo.scale-150.png" />
+    <Content Include="Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48_altform-unplated.png" />
+    <Content Include="Assets\Square71x71Logo.scale-100.png" />
+    <Content Include="Assets\Square71x71Logo.scale-125.png" />
+    <Content Include="Assets\Square71x71Logo.scale-150.png" />
+    <Content Include="Assets\Square71x71Logo.scale-200.png" />
+    <Content Include="Assets\Square71x71Logo.scale-400.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-125.png" />
+    <Content Include="Assets\StoreLogo.scale-150.png" />
+    <Content Include="Assets\StoreLogo.scale-200.png" />
+    <Content Include="Assets\StoreLogo.scale-400.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-125.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-150.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="audio\0413.wav" />
+    <Content Include="audio\117154.wav" />
+    <Content Include="audio\Backward.png" />
+    <Content Include="audio\BEEP6.wav" />
+    <Content Include="audio\BEEPSOUN.wav" />
+    <Content Include="audio\button3.wav" />
+    <Content Include="audio\Car_Crash.wav" />
+    <Content Include="audio\chao1.jpg" />
+    <Content Include="audio\dr-eggman.jpg" />
+    <Content Include="audio\DrEggmanLogoPerspective.jpg" />
+    <Content Include="audio\DrEggmanLogoPerspective.png" />
+    <Content Include="audio\Dr__Eggman.jpg" />
+    <Content Include="audio\eggerr.wav" />
+    <Content Include="audio\Eggman installer image.jpg" />
+    <Content Include="audio\eggman.wav" />
+    <Content Include="audio\EggmanPlayer.exe" />
+    <Content Include="audio\eggmansay.wav" />
+    <Content Include="audio\eggmansleep.wav" />
+    <Content Include="audio\eggmanstart.wav" />
+    <Content Include="audio\eggtime.mpg" />
+    <Content Include="audio\eggtime.wmv" />
+    <Content Include="audio\errorbeep_first.wav" />
+    <Content Include="audio\Forward.png" />
+    <Content Include="audio\hd.jpg" />
+    <Content Include="audio\images.jpg" />
+    <Content Include="audio\images2.jpg" />
+    <Content Include="audio\KingSpartaX37 aka _Delta Brony_ - [Sonic Colors x MLP] Reach For The Elements of Harmony.mp3" />
+    <Content Include="audio\laught.wav" />
+    <Content Include="audio\MLP-SunshineRemix.mp3" />
+    <Content Include="audio\mw3goofysound.wav" />
+    <Content Include="audio\no start.wav" />
+    <Content Include="audio\Nuclear Explosion 2.mp4" />
+    <Content Include="audio\p4.wav" />
+    <Content Include="audio\p6.wav" />
+    <Content Include="audio\Pause.png" />
+    <Content Include="audio\Play.png" />
+    <Content Include="audio\question.wav" />
+    <Content Include="audio\question2.wav" />
+    <Content Include="audio\questiondone.wav" />
+    <Content Include="audio\ROBO_036.wav" />
+    <Content Include="audio\shutdown.wav" />
+    <Content Include="audio\Snore.wav" />
+    <Content Include="audio\Sonic-Colours-Orbot.jpg" />
+    <Content Include="audio\Sonic-Colours-Orbot.png" />
+    <Content Include="audio\StartUp.wav" />
+    <Content Include="audio\StartUp2.wav" />
+    <Content Include="audio\START_101.wav" />
+    <Content Include="audio\Stop.png" />
+    <Content Include="audio\t.mp3" />
+    <Content Include="audio\t.wav" />
+    <Content Include="audio\TEMP.mpg" />
+    <Content Include="audio\throw.mpg" />
+    <Content Include="audio\Throws His Computer Out The Window.mp4" />
+    <Content Include="audio\TimeCircuits.exe" />
+    <Content Include="audio\tt.mp3" />
+    <Content Include="audio\tt.wav" />
+    <Content Include="audio\two-pop.wav" />
+    <Content Include="audio\windows 10.png" />
+    <Content Include="audio\windows 7.png" />
+    <Content Include="audio\Windows 8 startup.mp3" />
+    <Content Include="audio\windows 8.1.PNG" />
+    <Content Include="audio\Windows Information Bar.wav" />
+    <Content Include="audio\ZZZ.bmp" />
+    <Content Include="audio\[000144].wav" />
+    <Content Include="audio\[000185].wav" />
+    <Content Include="audio\[001472].wav" />
+    <Content Include="audio\[001535].wav" />
+    <Content Include="audio\[001539].wav" />
+    <Content Include="audio\[001839].wav" />
+    <Content Include="audio\[001918].wav" />
+    <Content Include="audio\[002578].wav" />
+    <Content Include="audio\[003006].wav" />
+    <Content Include="audio\[003661].mpg" />
+    <Content Include="audio\[003824].wav" />
+    <Content Include="audio\[003825].wav" />
+    <Content Include="audio\[031984].wav" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -137,6 +264,24 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Loginsetup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="WindowsDesktop, Version=10.0.15063.0">
+      <Name>Windows Desktop Extensions for the UWP</Name>
+    </SDKReference>
+    <SDKReference Include="WindowsIoT, Version=10.0.15063.0">
+      <Name>Windows IoT Extensions for the UWP</Name>
+    </SDKReference>
+    <SDKReference Include="WindowsMobile, Version=10.0.15063.0">
+      <Name>Windows Mobile Extensions for the UWP</Name>
+    </SDKReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

@@ -1,0 +1,619 @@
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\ApplicationInsights.config
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\App.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Installer.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Install_Screen.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Loginsetup.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.xr.xml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.exe
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.pdb
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\resources.pri
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\AppxManifest.xml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\AppxManifest.xml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\Eggman OS Windows 10 Edition.exe
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.build.appxrecipe
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.CSharp.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Core.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Web.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Windows.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.Linq.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.Serialization.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.VisualBasic.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.AppContext.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Concurrent.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Immutable.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.NonGeneric.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Specialized.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.Annotations.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Data.Common.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Contracts.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Debug.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Tools.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Tracing.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Dynamic.Runtime.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.Calendars.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.Extensions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.Compression.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\ClrCompression.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.FileSystem.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.IsolatedStorage.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Expressions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Parallel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Queryable.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Http.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Http.Rtc.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.NetworkInformation.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Primitives.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Requests.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Sockets.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.Vectors.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ObjectModel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.DataContractSerialization.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.Networking.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.ServiceModel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.Uri.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Context.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Extensions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Metadata.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Primitives.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Resources.ResourceManager.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Extensions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Handles.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.InteropServices.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Numerics.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Security.Claims.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Security.Principal.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Duplex.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Http.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Primitives.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Security.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.RegularExpressions.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Overlapped.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Timer.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.ReaderWriter.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XDocument.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XmlDocument.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XmlSerializer.dll
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.csprojResolveAssemblyReference.cache
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.g.i.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.g.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.g.i.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.g.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.g.i.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.g.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.g.i.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.g.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\XamlTypeInfo.g.cs
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.xaml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.xaml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.xaml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.xaml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.xbf
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\XamlSaveStateFile.xml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.exe
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.pdb
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\ResourceHandlingTask.state
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\priconfig.xml
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\priconfig.xml.intermediate
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\layout.resfiles
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\layout.resfiles.intermediate
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\resources.resfiles
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\resources.resfiles.intermediate
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\pri.resfiles
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\pri.resfiles.intermediate
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\qualifiers.txt
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\qualifiers.txt.intermediate
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+\\JVPC\Main drive\Users\thejo\Documents\Visual Studio 2015\Projects\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\ApplicationInsights.config
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\App.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Installer.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Install_Screen.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Loginsetup.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.xr.xml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.exe
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.pdb
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\resources.pri
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\AppxManifest.xml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\Eggman OS Windows 10 Edition.exe
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.build.appxrecipe
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.CSharp.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Core.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Windows.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.Linq.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.Serialization.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.AppContext.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Data.Common.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.Compression.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\ClrCompression.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Http.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Primitives.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Requests.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Sockets.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ObjectModel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.Networking.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.Uri.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Context.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Security.Claims.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Security.Principal.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Timer.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.g.i.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.g.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.g.i.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.g.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.g.i.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.g.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.g.i.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.g.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.xaml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.xaml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.xaml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.xaml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.xbf
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.exe
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.pdb
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\priconfig.xml
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\layout.resfiles
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\resources.resfiles
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\pri.resfiles
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\qualifiers.txt
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Joshua\Desktop\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\audio\[001918].wav
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.csprojResolveAssemblyReference.cache
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.g.i.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.g.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.g.i.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.g.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.g.i.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.g.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.g.i.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.g.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.xaml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.xaml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.xaml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.xaml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\App.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Installer.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Install_Screen.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Loginsetup.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.exe
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\Eggman OS Windows 10 Edition.pdb
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\ApplicationInsights.config
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\App.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Installer.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Install_Screen.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Loginsetup.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.xr.xml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.exe
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.pdb
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\resources.pri
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\AppxManifest.xml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\AppxManifest.xml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\Eggman OS Windows 10 Edition.exe
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.build.appxrecipe
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.CSharp.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Core.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Web.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Windows.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.Linq.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.Serialization.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.VisualBasic.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.AppContext.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Concurrent.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.NonGeneric.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Collections.Specialized.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.Annotations.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Data.Common.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Contracts.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Debug.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Tools.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Diagnostics.Tracing.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Dynamic.Runtime.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.Calendars.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Globalization.Extensions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.Compression.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\ClrCompression.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.FileSystem.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.IsolatedStorage.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Expressions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Parallel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Linq.Queryable.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Http.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Http.Rtc.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.NetworkInformation.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Primitives.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Requests.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.Sockets.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ObjectModel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.DataContractSerialization.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.Networking.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.ServiceModel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Private.Uri.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Context.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Extensions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Metadata.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.Primitives.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Resources.ResourceManager.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Extensions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Handles.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.InteropServices.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Numerics.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Security.Claims.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Security.Principal.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Duplex.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Http.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Primitives.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.ServiceModel.Security.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Text.RegularExpressions.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Overlapped.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Threading.Timer.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.ReaderWriter.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XDocument.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XmlDocument.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\System.Xml.XmlSerializer.dll
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\ResourceHandlingTask.state
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\priconfig.xml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\priconfig.xml.intermediate
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\layout.resfiles
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\layout.resfiles.intermediate
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\resources.resfiles
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\resources.resfiles.intermediate
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\pri.resfiles
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\pri.resfiles.intermediate
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\qualifiers.txt
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\x64\Debug\ProjectArchitectures.txt
