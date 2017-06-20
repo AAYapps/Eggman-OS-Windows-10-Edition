@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>E8633CF9401821DFCD11DDAB4F04296BFA4D13B98A1568D5C73944AAFE120C2E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>1BE0A521468C861D1A914D852FFB1D0AA0C1362763B1DAD86B42F01768EDAD61</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>1b860f43-794c-4823-9def-dda10993799e_1.0.0.0_x64__5yqrpw1pjcztt</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>1b860f43-794c-4823-9def-dda10993799e_5yqrpw1pjcztt!App</RegisteredUserModeAppID>
     <RegisteredPackageID>1b860f43-794c-4823-9def-dda10993799e</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-21T00:38:31.932</Modified>
+      <Modified>2017-06-20T03:16:04.030</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.exe">
       <PackagePath>entrypoint\Eggman OS Windows 10 Edition.exe</PackagePath>
-      <Modified>2017-05-21T00:38:29.641</Modified>
+      <Modified>2017-06-20T03:16:01.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thejo\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -1040,7 +1040,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Eggman OS Windows 10 Edition.xr.xml">
       <PackagePath>Eggman OS Windows 10 Edition.xr.xml</PackagePath>
-      <Modified>2017-05-21T00:38:29.262</Modified>
+      <Modified>2017-06-18T21:53:37.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1049,11 +1049,11 @@
     <AppxPackagedFile Include="D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-21T00:38:31.497</Modified>
+      <Modified>2017-06-18T22:18:46.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\x64\Debug\Core\Eggman OS Windows 10 Edition.exe">
       <PackagePath>Eggman OS Windows 10 Edition.exe</PackagePath>
-      <Modified>2017-05-21T00:38:31.921</Modified>
+      <Modified>2017-06-20T03:16:04.022</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -1086,27 +1086,27 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25022.0</Version>
+      <Version>14.0.25023.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25022.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25023.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25022.0</Version>
+      <Version>14.0.25023.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25022.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25023.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25022.0</Version>
+      <Version>14.0.25023.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25022.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25023.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

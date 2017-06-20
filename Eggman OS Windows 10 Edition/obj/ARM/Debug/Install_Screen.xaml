@@ -9,8 +9,8 @@
     <RelativePanel Background="#B2BB0606">
         <Image x:ConnectionId='2' x:Name="Installpic" RelativePanel.Above="Actionlbl"  RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" Source="Assets/chao1.jpg" Visibility="Collapsed"/>
         <RelativePanel x:ConnectionId='3' x:Name="Formatpnl" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True" Height="200" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
-            <TextBlock x:ConnectionId='7' x:Name="Formatlbl" Text="Formatting" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True" FontSize="24"                           Margin="0" Padding="0,0,0,10"/>
-            <ProgressBar x:ConnectionId='8' x:Name="Formattingbar" RelativePanel.AlignHorizontalCenterWith="Formatlbl" RelativePanel.Below="Formatlbl" Height="50" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" Padding="0" Margin="100,0">
+            <TextBlock x:ConnectionId='8' x:Name="Formatlbl" Text="Formatting" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True" FontSize="24"                           Margin="0" Padding="0,0,0,10"/>
+            <ProgressBar x:ConnectionId='9' x:Name="Formattingbar" RelativePanel.AlignHorizontalCenterWith="Formatlbl" RelativePanel.Below="Formatlbl" Height="50" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" Padding="0" Margin="100,0">
                 <ProgressBar.Foreground>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="#FFEC9090" Offset="0"/>
@@ -30,7 +30,8 @@
             </ProgressBar.Foreground>
         </ProgressBar>
         <TextBlock x:ConnectionId='5' x:Name="Actionlbl" RelativePanel.Above="Installprog" RelativePanel.AlignHorizontalCenterWithPanel="True"  Text="status" FontSize="18.667" FontWeight="Bold" FontFamily="Incised901 Nd BT"/>
-        <MediaElement x:ConnectionId='6' x:Name="installermusic" AutoPlay="True" Source="ms-appx:///audio/[001918].wav"></MediaElement>
+        <ListView x:ConnectionId='6' x:Name="Realinstall" RelativePanel.AlignBottomWith="Actionlbl" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignTopWithPanel="True" Margin="10,10,10,30" Background="#FFF55D5D" Visibility="Collapsed" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False"                                      />
+        <MediaElement x:ConnectionId='7' x:Name="installermusic" AutoPlay="True" IsLooping="True" AudioCategory="Media"></MediaElement>
     </RelativePanel>
 </Page>
 

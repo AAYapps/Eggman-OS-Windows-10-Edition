@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="Eggman_OS_Windows_10_Edition.Desktop_Envirnment"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Eggman_OS_Windows_10_Edition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="DesktopEnvirnment" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ScrollViewer x:Name="scrollviewer" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Disabled" VerticalScrollMode="Enabled" HorizontalScrollMode="Disabled" Grid.Row="1" Background="#FF0A0303">
+            <TextBlock x:Name="Commandegg" Text="" TextWrapping="Wrap" FontSize="40" Foreground="White" Loaded="Commandegg_Loaded" />
+        </ScrollViewer>
+    </Grid>
+</Page>

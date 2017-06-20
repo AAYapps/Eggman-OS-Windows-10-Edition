@@ -100,6 +100,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Desktop Envirnment.xaml.cs">
+      <DependentUpon>Desktop Envirnment.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Installer.xaml.cs">
       <DependentUpon>Installer.xaml</DependentUpon>
     </Compile>
@@ -256,6 +259,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Desktop Envirnment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Installer.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

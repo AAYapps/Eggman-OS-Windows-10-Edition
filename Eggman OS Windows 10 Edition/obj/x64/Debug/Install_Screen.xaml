@@ -30,7 +30,7 @@
             </ProgressBar.Foreground>
         </ProgressBar>
         <TextBlock x:ConnectionId='5' x:Name="Actionlbl" RelativePanel.Above="Installprog" RelativePanel.AlignHorizontalCenterWithPanel="True"  Text="status" FontSize="18.667" FontWeight="Bold" FontFamily="Incised901 Nd BT"/>
-        <ListView x:ConnectionId='6' x:Name="Realinstall" RelativePanel.AlignBottomWith="Actionlbl" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignTopWithPanel="True" Margin="10,10,10,30" Background="#FFF55D5D" Visibility="Collapsed"/>
+        <ListView x:ConnectionId='6' x:Name="Realinstall" RelativePanel.AlignBottomWith="Actionlbl" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignTopWithPanel="True" Margin="10,10,10,30" Background="#FFF55D5D" Visibility="Collapsed" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False"                                      />
         <MediaElement x:ConnectionId='7' x:Name="installermusic" AutoPlay="True" IsLooping="True" AudioCategory="Media"></MediaElement>
     </RelativePanel>
 </Page>

@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="Eggman_OS_Windows_10_Edition.Loginsetup"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Eggman_OS_Windows_10_Edition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <RelativePanel Background="#7F7C0707" Grid.RowSpan="2">
+            <Image x:ConnectionId='1' x:Name="Eggpic" Source="audio/Dr__Eggman.jpg" RelativePanel.AlignHorizontalCenterWithPanel="True" Stretch="None" Height="75" Margin="0,100,0,0"/>
+            <TextBox x:ConnectionId='2' x:Name="Usernametxt" RelativePanel.AlignHorizontalCenterWith="Eggpic" RelativePanel.Below="Eggpic" Margin="100,50,0,0" Width="200"/>
+            <TextBlock x:ConnectionId='3' x:Name="userlbl" Text="Username" RelativePanel.AlignLeftWith="Usernametxt" RelativePanel.AlignVerticalCenterWith="Usernametxt" Margin="-25,50,0,0" FontSize="18"                        />
+            <TextBox x:ConnectionId='4' x:Name="Passwordtxt" RelativePanel.Below="Usernametxt" RelativePanel.AlignHorizontalCenterWithPanel="True" Width="200" Margin="100,10,0,0"/>
+            <TextBlock x:ConnectionId='5' x:Name="Passwordlbl" Text="Password" RelativePanel.AlignLeftWith="Passwordtxt" RelativePanel.AlignVerticalCenterWith="Passwordtxt" Margin="-25,10,0,0" FontSize="18"                            />
+            <TextBox x:ConnectionId='6' x:Name="CPasswordtxt" RelativePanel.Below="Passwordtxt" RelativePanel.AlignHorizontalCenterWithPanel="True" Width="200" Margin="100,10,0,0"/>
+            <TextBlock x:ConnectionId='7' x:Name="CPasswordlbl" Text="Verify Password" RelativePanel.AlignLeftWith="CPasswordtxt" RelativePanel.AlignVerticalCenterWith="CPasswordtxt" Margin="-25,10,0,0" FontSize="18"                             />
+            <TextBox x:ConnectionId='8' x:Name="Passhint" RelativePanel.Below="CPasswordtxt" RelativePanel.AlignHorizontalCenterWithPanel="True" Width="200" Margin="100,10,0,0"/>
+            <TextBlock x:ConnectionId='9' x:Name="hintlbl" Text="Password Hint" RelativePanel.AlignLeftWith="Passhint" RelativePanel.AlignVerticalCenterWith="Passhint" Margin="-25,10,0,0" FontSize="18"                        />
+            <CheckBox x:ConnectionId='10' x:Name="loginautochk" Content="Login Automatically" RelativePanel.Below="Passhint" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="-150,20,0,0"/>
+            <Button x:ConnectionId='11' x:Name="Logincreatebtn" Content="Create Login" RelativePanel.RightOf="loginautochk" RelativePanel.AlignVerticalCenterWith="loginautochk" RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="10,20,0,0"                                   />
+            <ProgressBar x:ConnectionId='12' x:Name="logcreateproc" RelativePanel.AlignHorizontalCenterWith="Logincreatebtn" RelativePanel.Below="Logincreatebtn" Height="30" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" Padding="0" Margin="60,20,60,0" Visibility="Collapsed">
+                <ProgressBar.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFEC9090" Offset="0"/>
+                        <GradientStop Color="#FFF92B0B" Offset="0.447"/>
+                        <GradientStop Color="#FFF5B4A0" Offset="0.983"/>
+                    </LinearGradientBrush>
+                </ProgressBar.Foreground>
+            </ProgressBar>
+        </RelativePanel>
+    </Grid>
+</Page>
+

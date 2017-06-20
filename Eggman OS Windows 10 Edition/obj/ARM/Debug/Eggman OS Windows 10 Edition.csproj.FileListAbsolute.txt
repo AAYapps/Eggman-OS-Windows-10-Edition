@@ -822,3 +822,8 @@ D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\quali
 D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\qualifiers.txt.intermediate
 D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\Desktop Envirnment.g.i.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\Desktop Envirnment.g.cs
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\Desktop Envirnment.xaml
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\obj\ARM\Debug\Desktop Envirnment.xbf
+D:\Eggman OS Windows 10 Edition\Eggman OS Windows 10 Edition\bin\ARM\Debug\Desktop Envirnment.xbf

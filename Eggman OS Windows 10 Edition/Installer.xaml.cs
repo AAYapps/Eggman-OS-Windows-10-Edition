@@ -30,11 +30,11 @@ namespace Eggman_OS_Windows_10_Edition
     {
         public static async System.Threading.Tasks.Task gamecreate()
         {
-            Eggkernel.gamefolder = await ApplicationData.Current.LocalFolder.CreateFolderAsync("EggmanOS Directory");
-            Eggkernel.OSfolder = await Eggkernel.gamefolder.CreateFolderAsync("Eggman OS");
-            Eggkernel.eggsys32folder = await Eggkernel.OSfolder.CreateFolderAsync("eggsys32\\");
-            Eggkernel.mediafolder = await Eggkernel.OSfolder.CreateFolderAsync("media");
-            StorageFolder gamesavef = await Eggkernel.gamefolder.CreateFolderAsync("Gamesave");
+            Eggkernel.GameFolder = await ApplicationData.Current.LocalFolder.CreateFolderAsync("EggmanOS Directory");
+            Eggkernel.OSFolder = await Eggkernel.GameFolder.CreateFolderAsync("Eggman OS");
+            Eggkernel.Eggsys32Folder = await Eggkernel.OSFolder.CreateFolderAsync("eggsys32\\");
+            Eggkernel.MediaFolder = await Eggkernel.OSFolder.CreateFolderAsync("media");
+            StorageFolder gamesavef = await Eggkernel.GameFolder.CreateFolderAsync("Gamesave");
             StorageFile gamesave = await gamesavef.CreateFileAsync("GameSave.ETF", CreationCollisionOption.ReplaceExisting);
 
             /*if (Eggkernel.getsystemtype() == "Windows.IoT")
@@ -77,7 +77,7 @@ namespace Eggman_OS_Windows_10_Edition
 
         public static async System.Threading.Tasks.Task gameload()
         {
-            await Eggkernel.assignfolders();
+            await Eggkernel.AssignFolders();
 
             /*FileOpenPicker OpenPicker = new FileOpenPicker();
             OpenPicker.SuggestedStartLocation = PickerLocationId.DocumentsLibrary;
@@ -210,6 +210,8 @@ namespace Eggman_OS_Windows_10_Edition
         private async void LoadSave_Click(object sender, RoutedEventArgs e)
         {
             await gameload();
+            await Eggkernel.system_startAsync();
+            Eggkernel.Changewindow(this, new Desktop_Envirnment());
         }
     }
 }

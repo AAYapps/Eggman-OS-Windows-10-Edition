@@ -132,19 +132,21 @@ namespace Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[5];
-            _typeNameTable[0] = "Eggman_OS_Windows_10_Edition.Installer";
+            _typeNameTable = new string[6];
+            _typeNameTable[0] = "Eggman_OS_Windows_10_Edition.Desktop_Envirnment";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "Eggman_OS_Windows_10_Edition.Install_Screen";
-            _typeNameTable[4] = "Eggman_OS_Windows_10_Edition.Loginsetup";
+            _typeNameTable[3] = "Eggman_OS_Windows_10_Edition.Installer";
+            _typeNameTable[4] = "Eggman_OS_Windows_10_Edition.Install_Screen";
+            _typeNameTable[5] = "Eggman_OS_Windows_10_Edition.Loginsetup";
 
-            _typeTable = new global::System.Type[5];
-            _typeTable[0] = typeof(global::Eggman_OS_Windows_10_Edition.Installer);
+            _typeTable = new global::System.Type[6];
+            _typeTable[0] = typeof(global::Eggman_OS_Windows_10_Edition.Desktop_Envirnment);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::Eggman_OS_Windows_10_Edition.Install_Screen);
-            _typeTable[4] = typeof(global::Eggman_OS_Windows_10_Edition.Loginsetup);
+            _typeTable[3] = typeof(global::Eggman_OS_Windows_10_Edition.Installer);
+            _typeTable[4] = typeof(global::Eggman_OS_Windows_10_Edition.Install_Screen);
+            _typeTable[5] = typeof(global::Eggman_OS_Windows_10_Edition.Loginsetup);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -179,9 +181,10 @@ namespace Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_Installer() { return new global::Eggman_OS_Windows_10_Edition.Installer(); }
-        private object Activate_3_Install_Screen() { return new global::Eggman_OS_Windows_10_Edition.Install_Screen(); }
-        private object Activate_4_Loginsetup() { return new global::Eggman_OS_Windows_10_Edition.Loginsetup(); }
+        private object Activate_0_Desktop_Envirnment() { return new global::Eggman_OS_Windows_10_Edition.Desktop_Envirnment(); }
+        private object Activate_3_Installer() { return new global::Eggman_OS_Windows_10_Edition.Installer(); }
+        private object Activate_4_Install_Screen() { return new global::Eggman_OS_Windows_10_Edition.Install_Screen(); }
+        private object Activate_5_Loginsetup() { return new global::Eggman_OS_Windows_10_Edition.Loginsetup(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -193,9 +196,9 @@ namespace Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  Eggman_OS_Windows_10_Edition.Installer
+            case 0:   //  Eggman_OS_Windows_10_Edition.Desktop_Envirnment
                 userType = new global::Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_Installer;
+                userType.Activator = Activate_0_Desktop_Envirnment;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -208,16 +211,23 @@ namespace Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo
                 xamlType = new global::Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  Eggman_OS_Windows_10_Edition.Install_Screen
+            case 3:   //  Eggman_OS_Windows_10_Edition.Installer
                 userType = new global::Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_Install_Screen;
+                userType.Activator = Activate_3_Installer;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 4:   //  Eggman_OS_Windows_10_Edition.Loginsetup
+            case 4:   //  Eggman_OS_Windows_10_Edition.Install_Screen
                 userType = new global::Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_Loginsetup;
+                userType.Activator = Activate_4_Install_Screen;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 5:   //  Eggman_OS_Windows_10_Edition.Loginsetup
+                userType = new global::Eggman_OS_Windows_10_Edition.Eggman_OS_Windows_10_Edition_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_5_Loginsetup;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

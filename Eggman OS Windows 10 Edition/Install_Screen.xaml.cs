@@ -69,43 +69,43 @@ namespace Eggman_OS_Windows_10_Edition
                 {
                     case 1:
                         await Eggkernel.Createfolders();
-                        Realinstall.Items.Add(Eggkernel.gamefolder.Path + " Created");
+                        Realinstall.Items.Add(Eggkernel.GameFolder.Path + " Created");
 
 
-                        Realinstall.Items.Add(Eggkernel.gamefolder.Path + @"\Gamesave" + " Created");
+                        Realinstall.Items.Add(Eggkernel.GameFolder.Path + @"\Gamesave" + " Created");
 
 
-                        Realinstall.Items.Add(Eggkernel.OSfolder.Path + " Created");
+                        Realinstall.Items.Add(Eggkernel.OSFolder.Path + " Created");
 
 
-                        Realinstall.Items.Add(Eggkernel.eggsys32folder.Path + " Created");
+                        Realinstall.Items.Add(Eggkernel.Eggsys32Folder.Path + " Created");
 
 
-                        Realinstall.Items.Add(Eggkernel.mediafolder.Path + " Created");
+                        Realinstall.Items.Add(Eggkernel.MediaFolder.Path + " Created");
 
 
                         StorageFolder folder = await Windows.ApplicationModel.Package.Current.InstalledLocation.GetFolderAsync("audio");
                         StorageFile file = await folder.GetFileAsync("eggtime.wmv");
                         var stream = await file.OpenAsync(Windows.Storage.FileAccessMode.Read);
-                        await file.CopyAsync(Eggkernel.mediafolder, "eggtime.wmv", NameCollisionOption.ReplaceExisting);
+                        await file.CopyAsync(Eggkernel.MediaFolder, "eggtime.wmv", NameCollisionOption.ReplaceExisting);
                         Realinstall.Items.Add("eggtime.wmv Created");
 
 
                         file = await folder.GetFileAsync("t.mp3");
                         stream = await file.OpenAsync(Windows.Storage.FileAccessMode.Read);
-                        await file.CopyAsync(Eggkernel.mediafolder, file.Name, NameCollisionOption.ReplaceExisting);
+                        await file.CopyAsync(Eggkernel.MediaFolder, file.Name, NameCollisionOption.ReplaceExisting);
                         Realinstall.Items.Add("t.mp3 Created");
 
                         folder = await Windows.ApplicationModel.Package.Current.InstalledLocation.GetFolderAsync("audio");
                         file = await folder.GetFileAsync("windows 8 startup.mp3");
                         stream = await file.OpenAsync(Windows.Storage.FileAccessMode.Read);
-                        await file.CopyAsync(Eggkernel.mediafolder, file.Name, NameCollisionOption.ReplaceExisting);
+                        await file.CopyAsync(Eggkernel.MediaFolder, file.Name, NameCollisionOption.ReplaceExisting);
                         Realinstall.Items.Add("windows 8 startup.mp3 Created");
 
                         folder = await Windows.ApplicationModel.Package.Current.InstalledLocation.GetFolderAsync("audio");
                         file = await folder.GetFileAsync("Throws His Computer Out The Window.mp4");
                         stream = await file.OpenAsync(Windows.Storage.FileAccessMode.Read);
-                        await file.CopyAsync(Eggkernel.mediafolder, file.Name, NameCollisionOption.ReplaceExisting);
+                        await file.CopyAsync(Eggkernel.MediaFolder, file.Name, NameCollisionOption.ReplaceExisting);
 
                         break;
                     case 5:
@@ -123,17 +123,18 @@ namespace Eggman_OS_Windows_10_Edition
                     case 20:
                         Actionlbl.Text = "Installing Video driver";
 
-                        await Eggkernel.eggsys32folder.CreateFileAsync("graphics.EDF");
+                        await Eggkernel.Eggsys32Folder.CreateFileAsync("graphics.EDF");
                         Realinstall.Items.Add("graphics.EDF Created");
 
                         break;
                     case 25:
                         Actionlbl.Text = "Installing start menu files";
 
-                        Eggkernel.res = await Eggkernel.eggsys32folder.CreateFolderAsync("Resources");
+                        Eggkernel.Res = await Eggkernel.Eggsys32Folder.CreateFolderAsync("Resources");
                         folder = await Windows.ApplicationModel.Package.Current.InstalledLocation.GetFolderAsync("audio");
                         file = await folder.GetFileAsync("Nuclear Explosion 2.mp4");
-                        await file.CopyAsync(Eggkernel.res, "Nuclear Explosion 2.mp4", NameCollisionOption.ReplaceExisting);
+                        await file.CopyAsync(Eggkernel.
+                            Res, "Nuclear Explosion 2.mp4", NameCollisionOption.ReplaceExisting);
                         Realinstall.Items.Add("Nuclear Explosion 2.mp4 Created");
                         
                         break;
@@ -163,7 +164,7 @@ namespace Eggman_OS_Windows_10_Edition
                         break;
                     case 60:
                         Actionlbl.Text = "Installing 'Info has been enrypted' driver";
-                        await Eggkernel.eggsys32folder.CreateFileAsync("Network.EDF");
+                        await Eggkernel.Eggsys32Folder.CreateFileAsync("Network.EDF");
                         Realinstall.Items.Add("'Info has been enrypted' driver Created. You could have said network driver.");
                         break;
                     case 65:
@@ -246,6 +247,13 @@ namespace Eggman_OS_Windows_10_Edition
         private void Formatlbl_Tapped(object sender, TappedRoutedEventArgs e)
         {
             Formatlbl.Text = "";
+        }
+
+        private void Realinstall_SizeChanged(object sender, SizeChangedEventArgs e)
+        {
+            Realinstall.SelectedIndex = Realinstall.Items.Count - 1;
+
+            Realinstall.ScrollIntoView(Realinstall.SelectedItem);
         }
     }
 }
